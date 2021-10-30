@@ -5,9 +5,9 @@
 
 ### Блок 1. Основы Swift 
 
-[Основы Swift](./Основы Swift/)
+[Основы Swift](./Swift_Basics/)
 
 
 ### Блок 2. Основы Swift advanced
 
-[Основы Swift advanced](./Основы Swift advanced/)
+[Основы Swift advanced](./Swift_Advanced/)
