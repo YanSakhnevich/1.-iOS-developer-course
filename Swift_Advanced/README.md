@@ -1,7 +1,7 @@
 # Основы Swift advanced
 
 ### Блок 1. ООП
-1.1	[Основы ООП](./OOP_Basic/README.md)
+1.1	[Основы ООП](./OOP/OOP_Basic/README.md)
 
 1.2	[Объекты в ООП](./OOP/Objects_in_OOP/README.md)
 
