@@ -6,5 +6,5 @@
 
 3. [Навигация в iOS и жизненный цикл UIViewController](./IOS_Navigation_and_the_UIViewController_Lifecycle/README.md)
 
-4. [Базовые UI компоненты](/Basic_UI_components/README.md)
+4. [Базовые UI компоненты](./Basic_UI_components/README.md)
 
