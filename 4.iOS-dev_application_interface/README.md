@@ -16,4 +16,4 @@
 
 8. [CollectionView](./CollectionView/README.MD)
 
-9. [Жесты и анимация](./Gestures_and_animation/README.MD)
+9. [Жесты и анимация](./Gestures_and_animation/README.md)
