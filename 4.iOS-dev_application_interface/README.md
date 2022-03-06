@@ -10,10 +10,10 @@
 
 5. [UIView, CALayer, UIWindow. UI-базовые компоненты](./UIView,CALayer,UIWindow.UI-basic_components/README.MD)
 
-6. [Верстка экранов для iOS. Auto Layout](./Screen_layout_for_iOS.Auto_Layout/README.MD)
+6. [Верстка экранов для iOS. Auto Layout](./Screen_layout_for_iOS.Auto_Layout/README.md)
 
 7. [UIScrollView,UITableView,UITableViewDatasource,UITableViewDelegate](./UIScrollView,UITableView,UITableViewDatasource,UITableViewDelegate)
 
-8. [CollectionView](./CollectionView/README.MD)
+8. [CollectionView](./CollectionView/README.md)
 
 9. [Жесты и анимация](./Gestures_and_animation/README.md)
