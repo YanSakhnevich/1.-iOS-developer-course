@@ -6,7 +6,7 @@
 
 3. [Внедрение зависимостей в iOS](./Dependency_Injection_in_iOS/README.md)
 
-4. [Структурные паттерны: Delegate, Singleton, Factory](./Structural_patterns-Delegate,Singleton,Factory/README.MD)
+4. [Структурные паттерны: Delegate, Singleton, Factory](./Structural_patterns-Delegate,Singleton,Factory/README.md)
 
 5. [Структурные паттерны: Observer, Facade](./Structural_patterns-Observer,Facade/README.md)
 
