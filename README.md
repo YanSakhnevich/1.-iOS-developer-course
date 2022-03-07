@@ -13,3 +13,6 @@
 ### Блок 3. [Git - система контроля версий](./3.Git-version_control_system)
 
 ### Блок 4. [iOS dev: интерфейс приложения](./4.iOS-dev_application_interface)
+
+### Блок 5. [iOS dev: промышленная разработка](./5.iOS-dev_industrial_development)
+
